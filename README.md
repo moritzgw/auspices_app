@@ -1,10 +1,8 @@
 # The Audiophile Spatial Concert Soundstage (auspices) App
 
-Auspices is an Android app that applies a spatial filter to music files to recreate the listening experience in a concert hall. The effect only works with headphones and scales with the quality of your sound system. The app is designed for audiophile geeks. To obtains optimal results,
+Auspices is an Android app that applies a spatial filter to music files to recreate the listening experience in a concert hall. The effect only works with headphones and scales with the quality of your sound system. The app is designed for audiophile geeks -- the interface is quite basic but the signal processing has been designed very carefully. To obtains optimal results use audiophile headphones and a proper DAC.
 
-* use audiophile headphones
-* use a proper DAC
-* and export the converted music files to play them on your own sound system or a proper USB music app.
+While auspices provides a basic interface for listening to songs in the app and comparing them to their original versions, the app is designed to import songs, convert them, and then export them to the phone's shared storage. In this way, you can either listen to the songs in your favorite music player or export them to other devices. AUSPICES works with a broad range of standard media formats (FLAC, MP3, WAV) and can handle sampling rates between 44.1 and 192 kHz at up to 32 bits.
 
 If any of the above terms are unfamiliar to you, the app is probably not designed for you.
 
